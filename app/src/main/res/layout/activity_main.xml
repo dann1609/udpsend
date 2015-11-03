@@ -44,7 +44,7 @@
     <ScrollView
         android:id="@+id/SCROLLER_ID"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/boton"
         android:background="#000000"
         android:fillViewport="true"
