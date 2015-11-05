@@ -40,11 +40,11 @@ public class MainActivity extends Activity {
 	TextView label;
 	Button boton;
 	LocationManager myLocationManager;
-	String PROVIDER = LocationManager.GPS_PROVIDER;
+	String PROVIDER = LocationManager.NETWORK_PROVIDER;
 	int i=0,rpm=0;
 	//String host = "luciaserver.ddns.net";
-	String host = "192.168.1.4";
-    String port = "61919";
+	String host = "104.197.71.123";
+    String port = "8010";
     String uriString = "udp://" + host + ":" + port + "/";
     Uri uri;
     Intent intent;
