@@ -484,7 +484,7 @@ public class MainActivity extends Activity {
 	}
 	public void onConnect(){		
 		//sendMessage("ATDP");
-		sendMessage("ATE0");			
+		//sendMessage("ATE0");
 	}
 
 }
