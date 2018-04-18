@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/assets"/></dataSet><dataSet config="main"><source path="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/src/main/assets"/><source path="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/src/debug/assets"/></dataSet></merger>

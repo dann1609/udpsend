@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/input_frame.xml",
+        "source": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/src/main/res/drawable-xxhdpi/input_frame.xml"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_white.xml",
+        "source": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/src/main/res/drawable-xxhdpi/btn_white.xml"
+    }
+]

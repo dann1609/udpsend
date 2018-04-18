@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/drawable-xxhdpi/terminal_icon.png",
+        "source": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/src/main/res/drawable-xxhdpi/terminal_icon.png"
+    }
+]

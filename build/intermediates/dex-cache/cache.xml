@@ -2,18 +2,22 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Lucia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Lucia\AndroidStudioProjects\udpsend\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-26290dbe6ff86239d45cf15de6d3a35f0d8a2aca.jar" />
+        is-multidex="true"
+        jar="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0595ecedafe3a8ea25771343168da47082460423/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Lucia\AndroidStudioProjects\udpsend\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
-        <dex dex="C:\Users\Lucia\AndroidStudioProjects\udpsend\app\build\intermediates\pre-dexed\debug\classes-9940a4dbf0fc9735a4189cb017e9832f13f0cb72.jar" />
+        is-multidex="true"
+        jar="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff557b8e8f98ad6ec48e49219919384878087560">
+        <dex dex="/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1370c1f4b3610bb9867e2bbb795c339d31f2ac1e/classes.dex" />
     </item>
 
 </items>

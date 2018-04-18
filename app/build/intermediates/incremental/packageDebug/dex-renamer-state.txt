@@ -1,0 +1,7 @@
+#Wed Apr 18 08:48:58 COT 2018
+base.0=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0595ecedafe3a8ea25771343168da47082460423
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1370c1f4b3610bb9867e2bbb795c339d31f2ac1e/classes.dex
+base.1=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1370c1f4b3610bb9867e2bbb795c339d31f2ac1e
+file.0=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0595ecedafe3a8ea25771343168da47082460423/classes.dex

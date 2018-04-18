@@ -1,0 +1,4 @@
+#Wed Apr 18 08:48:58 COT 2018
+base.0=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

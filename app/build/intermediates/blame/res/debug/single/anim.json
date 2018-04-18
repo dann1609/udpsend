@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/danielpadilla/.android/build-cache/c0d30c6ad8e7027e1218a9983b33bccb6cd18529/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Apr 18 08:48:58 COT 2018
+base.0=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c914f5887ee555bcfe3980bc6166cfaf0a3f64e7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_270f945acbdd2300fe7c02f459b469e913527569/classes.dex
+base.1=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_270f945acbdd2300fe7c02f459b469e913527569
+file.0=/Users/danielpadilla/workspace/MyRepositories/udpsend/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c914f5887ee555bcfe3980bc6166cfaf0a3f64e7/classes.dex
